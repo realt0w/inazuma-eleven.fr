@@ -9,6 +9,9 @@ This repository is used to redirect and document all projects developed under th
 
 Here are the main public projects accessible to the community:
 
+### 🔸 [Inazuma Hub](https://github.com/realt0w/Inazuma-Hub)
+Main page of Inazuma Eleven Hub
+
 ### 🔸 [Team Builder](https://github.com/realt0w/team-builder)
 Create your ultimate Inazuma Eleven team with a modern web interface.  
 Includes player stats, formations, and export options.
